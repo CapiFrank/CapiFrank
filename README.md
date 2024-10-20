@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Jose Guevara, a passionate tech developer
+# 👋 Hi there! I'm Jose Guevara
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQFYHMU-5hxZRA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1688837604256?e=1735171200&v=beta&t=uS-Nr1Gfy7o_FerKGBUyylviOXKJ9GjoEL1H0_r0kJc">
 
