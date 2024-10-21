@@ -5,6 +5,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/CapiFrank)
 ![GitHub User's stars](https://img.shields.io/github/stars/CapiFrank)
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F5410jos)
+![Discord](https://img.shields.io/discord/1158564779661729813)
+
 
 ## 👨‍💻 About Me
 
